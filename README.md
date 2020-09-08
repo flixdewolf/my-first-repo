@@ -3,7 +3,7 @@ this is baby's first repo
 
 ## which baby though?
 
-![these two babies] (img/me and kot.jpg)
+![these two babies] (img/me_and_kot.jpg)
 
 
 
