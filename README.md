@@ -12,5 +12,4 @@ this is baby's first repo
 
 
 
-what the actual fuck am I doing
-send help
+
